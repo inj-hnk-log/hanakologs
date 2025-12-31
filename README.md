@@ -17,6 +17,7 @@
 ## 📁 ディレクトリ構成
 
 - `welcome.md`：導入文・趣旨説明（旧README）
+- `consepts`：異質脳概要説明
 - `logs/`：各ログ記事（Markdown形式）
 - `images/`：図解やイメージなどの補足資料（今後追加予定）
 
